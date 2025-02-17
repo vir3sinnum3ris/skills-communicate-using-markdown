@@ -8,3 +8,9 @@ I have tested the different headers
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 I have added an image
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+I added some testcode
